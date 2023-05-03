@@ -119,7 +119,7 @@
 - Fetch API и работа с ошибками;
 - Async/Await;
 
-Подробнее об этом можно прочитать [здесь](/tips-and-general-practices-for-future-react-developer.md).
+Подробнее об этом можно прочитать [здесь](https://github.com/v-belikov/symfa-internship-js-theory/blob/main/basic-js-methods-and-concepts.md).
 
 > Также неплохо знать, как работает [замыкание](https://learn.javascript.ru/closure) и
 > [каррирование](https://learn.javascript.ru/currying-partials).
