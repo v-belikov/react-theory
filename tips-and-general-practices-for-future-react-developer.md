@@ -119,7 +119,7 @@
 - Fetch API и работа с ошибками;
 - Async/Await;
 
-Подробнее об этом можно прочитать [здесь](/js/theory/basic-js-methods-and-concepts.md).
+Подробнее об этом можно прочитать [здесь](/basic-js-methods-and-concepts.md).
 
 > Также неплохо знать, как работает [замыкание](https://learn.javascript.ru/closure) и
 > [каррирование](https://learn.javascript.ru/currying-partials).
